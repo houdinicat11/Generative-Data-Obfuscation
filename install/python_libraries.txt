@@ -1,0 +1,11 @@
+pytorch
+pandas
+ipywidgets
+IPython
+matplotlib
+glob
+os
+numpy
+scipy
+math
+pyemd
